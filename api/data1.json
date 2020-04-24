@@ -1,0 +1,37 @@
+{  
+ 	"conveyance": [  		
+ 		{"from": "2019-01-01", "to": "2019-01-10", "purpose": "Office visit", "mode": "car", "km": "40", "amt": 1000, "inv_no": "re1025", "attachement": "http://localhost/reimbursement/bill/1.jpg", "date": "2019-02-20"},
+ 		{"from": "2019-01-01", "to": "2019-01-10", "purpose": "Office visit", "mode": "car", "km": "40", "amt": 1000, "inv_no": "re1025", "attachement": "http://localhost/reimbursement/bill/1.jpg", "date": "2019-02-20"},
+ 		{"from": "2019-01-01", "to": "2019-01-10", "purpose": "Office visit", "mode": "car", "km": "40", "amt": 1000, "inv_no": "re1025", "attachement": "http://localhost/reimbursement/bill/1.jpg", "date": "2019-02-20"},
+ 		{"from": "2019-01-01", "to": "2019-01-10", "purpose": "Office visit", "mode": "car", "km": "40", "amt": 1000, "inv_no": "re1025", "attachement": "http://localhost/reimbursement/bill/1.jpg", "date": "2019-02-20"},
+ 		{"from": "2019-01-01", "to": "2019-01-10", "purpose": "Office visit", "mode": "car", "km": "40", "amt": 1000, "inv_no": "re1025", "attachement": "http://localhost/reimbursement/bill/1.jpg", "date": "2019-02-20"}
+ 	],
+ 	"hotel": [
+ 		{"from_date": "2020-01-01", "to_date": "2020-02-31", "hotel_name": "taj", "inv_no":"rec102", "amt":100, "attachement": "path1", "date": "2019-05-21"},
+ 		{"from_date": "2020-01-01", "to_date": "2020-01-31", "hotel_name": "oberoi", "inv_no":"rec103", "amt":100, "attachement": "path2", "date": "2019-06-21"},
+ 		{"from_date": "2020-12-21", "to_date": "2020-04-31", "hotel_name": "pentic", "inv_no":"rec104", "amt":100, "attachement": "path3", "date": "2019-07-21"},
+ 		{"from_date": "2020-13-21", "to_date": "2020-05-31", "hotel_name": "corp", "inv_no":"rec105", "amt":100, "attachement": "path4", "date": "2019-08-21"},
+ 		{"from_date": "2020-14-21", "to_date": "2020-06-31", "hotel_name": "timid", "inv_no":"rec106", "amt":100, "attachement": "path5", "date": "2019-09-21"}
+ 	],
+ 	"food": [
+ 		{"inv_no": "ab25550", "amt": 1000, "bill_attachement": "path1", "date": "2019-05-01"},
+ 		{"inv_no": "m25552", "amt": 1400, "bill_attachement": "path2", "date": "2019-05-01"},
+ 		{"inv_no": "m25553", "amt": 1600, "bill_attachement": "path3", "date": "2019-05-01"},
+ 		{"inv_no": "m25554", "amt": 1070, "bill_attachement": "path4", "date": "2020-05-01"},
+ 		{"inv_no": "m25555", "amt": 1030, "bill_attachement": "path5", "date": "2020-05-01"}
+ 	],
+ 	"mobile": [
+ 		{"inv_no": "m25550", "amt": 1000, "attachement": "path1", "date": "2020-05-01"},
+ 		{"inv_no": "m25552", "amt": 1400, "attachement": "path2", "date": "2019-06-01"},
+ 		{"inv_no": "m25553", "amt": 1600, "attachement": "path3", "date": "2020-07-01"},
+ 		{"inv_no": "m25554", "amt": 1070, "attachement": "path4", "date": "2020-08-01"},
+ 		{"inv_no": "m25555", "amt": 1030, "attachement": "path5", "date": "2019-09-01"}
+ 	],
+ 	"internet": [
+ 		{"inv_no": "i25550", "amt": 1000, "attachement": "path1", "date": "2020-05-01"},
+ 		{"inv_no": "i25552", "amt": 1400, "attachement": "path2", "date": "2019-06-01"},
+ 		{"inv_no": "i25553", "amt": 1600, "attachement": "path3", "date": "2020-07-01"},
+ 		{"inv_no": "i25554", "amt": 1070, "attachement": "path4", "date": "2020-08-01"},
+ 		{"inv_no": "i25555", "amt": 1030, "attachement": "path5", "date": "2019-09-01"}
+ 	]
+}
